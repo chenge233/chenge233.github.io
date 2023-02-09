@@ -1,0 +1,16 @@
+﻿/*简介*/
+.cont0{height:540px;background:url("../images/TB2pZGrtVXXXXbIXpXXXXXXXXXX_!!828203668.jpg")center bottom repeat-x #27262e;}
+
+/*网页分布*/
+.part1{background:#43bab8;height:546px;width:100%;}
+
+.part2{height:774px;background:#3a3a42;width:100%;}
+
+.part3{height:774px;background:#ff6b43;width:100%;}
+
+.part4{height:774px;background:#3a3a42;width:100%;}
+
+*{font-size:10px; margin:0; padding:0;}
+fieldset { padding:10px; margin:0px auto; width:1500px; color:black; border:green solid 1px;}
+legend {color:black; font-weight:800;font-size: 30px;}
+fieldset p{font-size: 20px;} 
